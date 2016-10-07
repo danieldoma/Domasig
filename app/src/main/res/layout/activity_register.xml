@@ -68,7 +68,6 @@
         android:digits="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789._@"
         android:textColor="#000000"
         android:backgroundTint="#000000"
-
         android:hint="Email"
         android:textColorHint="#868585"
         android:layout_above="@+id/pass"

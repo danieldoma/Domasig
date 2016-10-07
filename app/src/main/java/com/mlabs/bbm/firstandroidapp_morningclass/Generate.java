@@ -39,7 +39,7 @@ public class Generate extends AppCompatActivity {
                 TextView t5 = (TextView) findViewById(R.id.textView5);
                 TextView t6 = (TextView) findViewById(R.id.textView6);
 
-                switch (e.getAction()) {git
+                switch (e.getAction()) {
                     case MotionEvent.ACTION_DOWN:
                         x = e.getX();
                         y = e.getY();
